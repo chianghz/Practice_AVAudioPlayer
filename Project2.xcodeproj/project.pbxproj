@@ -12,6 +12,7 @@
 		1C8DBA4220638BE100C931AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C8DBA4020638BE100C931AF /* Main.storyboard */; };
 		1C8DBA4420638BE100C931AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C8DBA4320638BE100C931AF /* Assets.xcassets */; };
 		1C8DBA4720638BE100C931AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C8DBA4520638BE100C931AF /* LaunchScreen.storyboard */; };
+		1C8DBA4F2063961E00C931AF /* 周杰倫 - 簡單愛 HD.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1C8DBA4E2063961E00C931AF /* 周杰倫 - 簡單愛 HD.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1C8DBA4320638BE100C931AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C8DBA4620638BE100C931AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C8DBA4820638BE100C931AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C8DBA4E2063961E00C931AF /* 周杰倫 - 簡單愛 HD.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "周杰倫 - 簡單愛 HD.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1C8DBA4020638BE100C931AF /* Main.storyboard */,
 				1C8DBA4320638BE100C931AF /* Assets.xcassets */,
 				1C8DBA4520638BE100C931AF /* LaunchScreen.storyboard */,
+				1C8DBA4E2063961E00C931AF /* 周杰倫 - 簡單愛 HD.mp3 */,
 				1C8DBA4820638BE100C931AF /* Info.plist */,
 			);
 			path = Project2;
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C8DBA4F2063961E00C931AF /* 周杰倫 - 簡單愛 HD.mp3 in Resources */,
 				1C8DBA4720638BE100C931AF /* LaunchScreen.storyboard in Resources */,
 				1C8DBA4420638BE100C931AF /* Assets.xcassets in Resources */,
 				1C8DBA4220638BE100C931AF /* Main.storyboard in Resources */,
